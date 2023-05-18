@@ -45,5 +45,5 @@ print('\nCandidatos selecionados que foram bem no processo seletivo:\n')
 for i in nova_lista:
     print(i)
 print('\nObrigado por utilizar o programa')
-exit()
+
         
